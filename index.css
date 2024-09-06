@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(242, 244, 247);
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Add underline when the link is clicked or focused */
+a:focus, a:hover {
+    text-decoration: underline;
+}
+
+#Create {
+    background-color: rgb(25, 189, 47);
+    border-color: rgb(25, 189, 47);
+    color: white;
+}
+
+#textsababa{   
+    font-size: small;
+    text-align: center;
+}
+
+#fb h1{
+    font-size: 60px;
+}
+
+#fb p{
+    line-height: 1;
+    font-size: 25px;
+}
